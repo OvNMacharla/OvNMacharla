@@ -11,9 +11,15 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer with a k
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Node.js, Express
-- **Tools**: Git, Webpack, Babel, ESLint, Prettier
-- **Databases**: MongoDB, MySQL
-- **Query Language**: Graphql
-- **Others**: Tailwind CSS, Bootstrap, Jest, Docker
+- **Web Technologies:** JavaScript, TypeScript, HTML, CSS
+- **Programming Language:** Python
+- **Libraries:** React
+- **Frameworks:** Node.js, Express
+- **Databases:** MongoDB, MySQL 
+- **Query Language:** GraphQL
+- **Version Control:** Git
+- **Containerization:** Docker
+- **Build Tools:** Webpack, Babel
+- **Code Quality Tools:** ESLint, Prettier
+- **CSS Frameworks:** Tailwind CSS, Bootstrap
+- **Testing Framework:** Jest
