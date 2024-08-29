@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer with a k
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, React Native, Node.js, Express
+- **Frameworks**: React, Node.js, Express
 - **Tools**: Git, Webpack, Babel, ESLint, Prettier
 - **Databases**: MongoDB, MySQL
+- **Query Language**: Graphql
 - **Others**: Tailwind CSS, Bootstrap, Jest, Docker
