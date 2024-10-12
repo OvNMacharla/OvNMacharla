@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer with a k
 - **Databases:** MongoDB, MySQL 
 - **Query Language:** GraphQL
 - **Version Control:** Git
-- **Containerization:** Docker
 - **Build Tools:** Webpack, Babel
 - **Code Quality Tools:** ESLint, Prettier
 - **CSS Frameworks:** Tailwind CSS, Bootstrap
