@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate web and mobile developer with a k
 - **Web Technologies:** JavaScript, TypeScript, HTML, CSS
 - **Programming Language:** Python
 - **Libraries:** React
+- **Front-End Development:** Next.JS
 - **Frameworks:** Node.js, Express
 - **Databases:** MongoDB, MySQL 
 - **Query Language:** GraphQL
